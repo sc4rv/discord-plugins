@@ -9,7 +9,7 @@
 ![BDFDB](https://img.shields.io/badge/-BDFDB%20--%20DevilBro-ff8178)
 
 ![QuickDeleteMessages](https://img.shields.io/badge/-QuickDeleteMessages%20--%20__Lighty__-ff8178)
-![MessageLogger](https://img.shields.io/badge/-MessageLogger%20--%20__Lighty__-eb4034)
+![MessageLogger](https://img.shields.io/badge/-MessageLogger%20--%20__Lighty__-ff8178)
 ![XenoLib](https://img.shields.io/badge/-XenoLib%20--%20__Lighty__-ff8178)
 
 ![ZeresPluginLibrary](https://img.shields.io/badge/-ZeresPluginLibrary%20--%20ZackRawen-ff8178)
